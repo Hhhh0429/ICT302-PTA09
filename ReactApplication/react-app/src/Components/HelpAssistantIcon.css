@@ -1,0 +1,27 @@
+/* src/HelpAssistantIcon.css */
+
+.help-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #ca233d;
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.help-icon:hover {
+  background-color: #b01f09; /* Color change on hover */
+}
+
+.chatbox {
+  position: fixed;
+  bottom: 70px;
+  right: 20px;
+  z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}

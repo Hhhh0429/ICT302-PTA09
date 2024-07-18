@@ -1,0 +1,1569 @@
+[
+    {
+        "instrumentName": "Academic Council Regulations",
+        "className": "Regulations",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EXtmtSy9d_BAlyHbA7100R0B3OSmdLC7S7Q_JdP1-oVQRw?e=KigtpB",
+        "Owner": "Dixon, Louise",
+        "firstCreatedDate": "2023-01-13T00:00:00",
+        "lastModifiedDate": "2024-04-17T00:00:00",
+        "nextReviewDate": "2025-12-06T00:00:00",
+        "associatedInstruments": [
+            "Statute No. 5 - Academic Council"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "academic",
+            " council"
+        ],
+        "layout": "New",
+        "version": 13
+    },
+    {
+        "instrumentName": "Academic Council Statement of Governance Principles",
+        "className": "Principles/Framework",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EfvzTjwjNO9IvPahFGhT_0sBEjytLV793wD_gKBxHIQYzA?e=FDASXE",
+        "Owner": "McGlade, Trudi",
+        "firstCreatedDate": "2024-01-12T00:00:00",
+        "lastModifiedDate": "2024-03-20T00:00:00",
+        "nextReviewDate": "2026-11-22T00:00:00",
+        "associatedInstruments": [
+            "Statute No. 5 - Academic Council",
+            " Statute No. 8 - Interpretation"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "academic",
+            " council",
+            " governance",
+            " principles"
+        ],
+        "layout": "New",
+        "version": 39
+    },
+    {
+        "instrumentName": "Agent Procedure",
+        "className": "Procedure",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EdfwWKvfYFxLnnb_4FZIf9QBR4ANqRC9pQRevUp26aw8lA?e=7kDX0p",
+        "Owner": "Dunlop, Amanda",
+        "firstCreatedDate": "2022-04-04T00:00:00",
+        "lastModifiedDate": "2023-05-25T00:00:00",
+        "nextReviewDate": "2025-03-31T00:00:00",
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff"
+        ],
+        "keywords": [
+            "agent"
+        ],
+        "layout": "New",
+        "version": 3
+    },
+    {
+        "instrumentName": "Alumni Regulations",
+        "className": "Regulations",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EQqsKq51zVNLnQIRUVzcm1gBj0XG16IIQ3h8R4OG7VmqtQ?e=0KUqxx",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2021-09-09T00:00:00",
+        "lastModifiedDate": "2021-09-09T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "alumni"
+        ],
+        "layout": "Old",
+        "version": 2
+    },
+    {
+        "instrumentName": "Animals on Campus Procedure",
+        "className": "Procedure",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EWauSf9Q2RtCmsZk7M_t0CIBznSFdroz6APza6RtvsRUlw?e=MBDkfk",
+        "Owner": "Aurisch, Mark",
+        "firstCreatedDate": "2018-02-23T00:00:00",
+        "lastModifiedDate": "2022-11-02T00:00:00",
+        "nextReviewDate": "2021-02-16T00:00:00",
+        "associatedInstruments": [
+            "By-Laws"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "animal",
+            " campus"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Archives and Archival Records Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ESoEFHiEBQ5ElGQp3g7TdlMBaDtqJ8g3UMQBSIxckkAYqA?e=H6gMLl",
+        "Owner": "McGlade, Trudi",
+        "firstCreatedDate": "2021-12-21T00:00:00",
+        "lastModifiedDate": "2022-03-11T00:00:00",
+        "nextReviewDate": "2024-12-14T00:00:00",
+        "associatedInstruments": [
+            "Recordkeeping Policy"
+        ],
+        "accessRoles": [
+            "staff"
+        ],
+        "keywords": [
+            "archive",
+            " archival",
+            " records"
+        ],
+        "layout": "New",
+        "version": 4
+    },
+    {
+        "instrumentName": "Authorship Attribution and Dispute Resolution Procedure",
+        "className": "Procedure",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EWJLGU0Ku0hLociWRZcijfUBAYOrOg3vAUb2nH1jdJbdwQ?e=KwPfQb",
+        "Owner": "Eastwood, Peter",
+        "firstCreatedDate": "2023-10-09T00:00:00",
+        "lastModifiedDate": "2023-10-09T00:00:00",
+        "nextReviewDate": "2017-11-12T00:00:00",
+        "associatedInstruments": [
+            "Recordkeeping Policy"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "author",
+            " authorship",
+            " attribute",
+            " attribution",
+            " dispute",
+            " resolution"
+        ],
+        "layout": "New",
+        "version": 3
+    },
+    {
+        "instrumentName": "Authorship Attribution Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ER8KvZ3ifJBOrne7Ium033IBJ3qkf6jNxEiTqeeg7B6HmQ?e=syz9P4",
+        "Owner": "Maker, Garth",
+        "firstCreatedDate": "2023-09-21T00:00:00",
+        "lastModifiedDate": "2023-10-23T00:00:00",
+        "nextReviewDate": "2018-01-28T00:00:00",
+        "associatedInstruments": [
+            "Recordkeeping Policy"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "author",
+            " authorship",
+            " attribute",
+            " attribution"
+        ],
+        "layout": "New",
+        "version": 3
+    },
+    {
+        "instrumentName": "Award Nomenclature, Certification and Issuance Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EYlKJ8dOp0FDnju8wcoH73cBifMU_gSyz7OuR3Jagp4UbA?e=BlnhQo",
+        "Owner": "Maker, Garth",
+        "firstCreatedDate": "2023-10-04T00:00:00",
+        "lastModifiedDate": "2024-02-20T00:00:00",
+        "nextReviewDate": "2025-11-23T00:00:00",
+        "associatedInstruments": [
+            "Graduate Research Degrees Regulations",
+            " Statute No. 4 - Degrees Diplomas and Certificates"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "award",
+            " nomenclature",
+            " certificate",
+            " certification",
+            " issue",
+            " issuance"
+        ],
+        "layout": "New",
+        "version": 8
+    },
+    {
+        "instrumentName": "Award of Honorary Degree Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EcglzsK8ZeNBqCKWICHpJ00Be2gE9-qeG_iQt_YYSlELnQ?e=EFi8lW",
+        "Owner": "McGlade, Trudi",
+        "firstCreatedDate": "2023-11-14T00:00:00",
+        "lastModifiedDate": "2023-11-20T00:00:00",
+        "nextReviewDate": "2025-10-25T00:00:00",
+        "associatedInstruments": [
+            "Statute No. 4 - Degrees Diplomas and Certificates"
+        ],
+        "accessRoles": [
+            "staff"
+        ],
+        "keywords": [
+            "award",
+            " honor",
+            " honorary",
+            " degree"
+        ],
+        "layout": "New",
+        "version": 4
+    },
+    {
+        "instrumentName": "By-Laws",
+        "className": "Bylaw",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EfZRKRsqE9ZOuppmaHJGxFsBvVh1yyg_4UDszpno9q6JtQ?e=GeYR2z",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2015-03-18T00:00:00",
+        "lastModifiedDate": "2021-03-05T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "bylaw"
+        ],
+        "layout": "Old",
+        "version": 2
+    },
+    {
+        "instrumentName": "Code of Ethics",
+        "className": "Code/Charter",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ETmeyNOaMQNIt_qaFejUcTkB-4ARiSxyhVYaN8yHmkEhfQ?e=6CTJKG",
+        "Owner": "Maker, Garth",
+        "firstCreatedDate": "2024-04-08T00:00:00",
+        "lastModifiedDate": "2023-10-10T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [
+            "Staff Code of Conduct",
+            " Student Code of Conduct"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "code",
+            " ethics"
+        ],
+        "layout": "New",
+        "version": 2
+    },
+    {
+        "instrumentName": "College and School Regulations",
+        "className": "Regulations",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EVLeZhOs9RpIugZnVA0jNnsBJVvYtbw7N_6fiqNeQa7RGg?e=ug9QFr",
+        "Owner": "McGlade, Trudi",
+        "firstCreatedDate": "2023-01-13T00:00:00",
+        "lastModifiedDate": "2023-05-23T00:00:00",
+        "nextReviewDate": "2025-12-06T00:00:00",
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "college",
+            " school"
+        ],
+        "layout": "New",
+        "version": 1
+    },
+    {
+        "instrumentName": "Complaints Management Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ETz8rajB5I1IgChGixjshn4BSvT3gD4OIhrH8pi3sJqGvw?e=d0h7CR",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2018-03-12T00:00:00",
+        "lastModifiedDate": "2021-11-02T00:00:00",
+        "nextReviewDate": "2023-11-10T00:00:00",
+        "associatedInstruments": [
+            "Sexual Harm Policy",
+            " Student Complaints Management Procedure",
+            " Student Code of Conduct"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "complaint",
+            " management"
+        ],
+        "layout": "Old",
+        "version": 3
+    },
+    {
+        "instrumentName": "Conduct of Examinations Regulations",
+        "className": "Regulations",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EQjT3HrVmNxDnIgfgBZdNwgBT5szi9H1HIFk-qKevOIfdg?e=EPLRGh",
+        "Owner": "Maker, Garth",
+        "firstCreatedDate": "2023-10-26T00:00:00",
+        "lastModifiedDate": "2023-10-25T00:00:00",
+        "nextReviewDate": "2023-01-31T00:00:00",
+        "associatedInstruments": [
+            "Statute No. 20 - Examinations",
+            " Rules for the Conduct of Examinations"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "conduct",
+            " examination"
+        ],
+        "layout": "New",
+        "version": 3
+    },
+    {
+        "instrumentName": "Delegations and Authorisations Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EWoTYR6f1-pCmgMKSSTLCbYBU-cBFL-cqB2EPwsGsGC76A?e=kfmdhO",
+        "Owner": "McGlade, Trudi",
+        "firstCreatedDate": "2024-01-10T00:00:00",
+        "lastModifiedDate": "2024-01-17T00:00:00",
+        "nextReviewDate": "2023-12-12T00:00:00",
+        "associatedInstruments": [
+            "Policy Governance and Management Policy",
+            " Staff Code of Conduct",
+            " Statute No. 5 - Academic Council",
+            " Statute No. 25 - Vice Chancellor",
+            " Quality Review Policy"
+        ],
+        "accessRoles": [
+            "staff"
+        ],
+        "keywords": [
+            "delegation",
+            " authorisation"
+        ],
+        "layout": "New",
+        "version": 1
+    },
+    {
+        "instrumentName": "Election Regulations",
+        "className": "Regulations",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ETTMdQNP-HJPjQpbzH68U6MBO2G4z7LOzjaiUL-VbutRNQ?e=sNhqXU",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2022-10-06T00:00:00",
+        "lastModifiedDate": "2023-01-09T00:00:00",
+        "nextReviewDate": "2025-08-30T00:00:00",
+        "associatedInstruments": [
+            "Statute No. 15 - Elections"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "election"
+        ],
+        "layout": "New",
+        "version": 4
+    },
+    {
+        "instrumentName": "Establishment of Undergraduate. Honours. Postgraduate by Coursework and Recruitment Scholarships Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/Ef8sS48WCklHji2k9awyC_0B7-E3EjfmSGeKdTR7g4ZZwg?e=lsIAOd",
+        "Owner": "Deeks, Andrew",
+        "firstCreatedDate": "2023-09-18T00:00:00",
+        "lastModifiedDate": "2023-09-22T00:00:00",
+        "nextReviewDate": "2014-01-21T00:00:00",
+        "associatedInstruments": [
+            "Fee Rules",
+            " Statute No. 26 - Student Misconduct",
+            " Student Integrity Regulations"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "establish",
+            " undergraduate",
+            " honours",
+            " postgraduate",
+            " coursework",
+            " recruitment",
+            " scholarship"
+        ],
+        "layout": "New",
+        "version": 5
+    },
+    {
+        "instrumentName": "Exclusion from University Land Guideline",
+        "className": "Guideline",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EV13mRczgo5Bu6ommLk_TLgBthNZFXyXG1cxL3zYxFZvnw?e=9RmzFi",
+        "Owner": "Burnett, Julia",
+        "firstCreatedDate": "2021-11-17T00:00:00",
+        "lastModifiedDate": "2022-10-27T00:00:00",
+        "nextReviewDate": "2024-06-25T00:00:00",
+        "associatedInstruments": [
+            "By-Laws",
+            " Freedom of Speech and Academic Freedom Regulations"
+        ],
+        "accessRoles": [
+            "staff"
+        ],
+        "keywords": [
+            "exclusion",
+            " university",
+            " land"
+        ],
+        "layout": "New",
+        "version": 1
+    },
+    {
+        "instrumentName": "Fee Regulations",
+        "className": "Regulations",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ESx55nqjJv1OmjgDtpQXICcB3_5nIyy4zcG2jpAxgjUprA?e=fn2MW5",
+        "Owner": "Schoeman, Wim",
+        "firstCreatedDate": "2023-01-12T00:00:00",
+        "lastModifiedDate": "2023-01-17T00:00:00",
+        "nextReviewDate": "2023-12-06T00:00:00",
+        "associatedInstruments": [
+            "Statute No. 22 - Fees",
+            " Fee Rules"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "fee"
+        ],
+        "layout": "New",
+        "version": 4
+    },
+    {
+        "instrumentName": "Fee Rules",
+        "className": "Rule",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EeZVtE65Cy5HpIHNldrDR-UBmk75hpoI-5_NIYBQpNQSng?e=BfbDCe",
+        "Owner": "Deeks, Andrew",
+        "firstCreatedDate": "2024-04-30T00:00:00",
+        "lastModifiedDate": "2024-04-30T00:00:00",
+        "nextReviewDate": "2027-01-09T00:00:00",
+        "associatedInstruments": [
+            "Establishment of Undergraduate. Honours. Postgraduate by Coursework and Recruitment Scholarships Policy",
+            " Student Integrity Regulations"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "fee"
+        ],
+        "layout": "New",
+        "version": 23
+    },
+    {
+        "instrumentName": "Foreign Interference Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ETaoRbEUemJGm8oKszuKOMMBP9WZ74PpRo-5nMmhukEXcg?e=To0eN8",
+        "Owner": "Byles, Daniel",
+        "firstCreatedDate": "2021-08-06T00:00:00",
+        "lastModifiedDate": "2024-02-23T00:00:00",
+        "nextReviewDate": "2024-07-13T00:00:00",
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff"
+        ],
+        "keywords": [
+            "foreign",
+            " interference"
+        ],
+        "layout": "New",
+        "version": 2
+    },
+    {
+        "instrumentName": "Freedom of Speech and Academic Freedom Regulations",
+        "className": "Regulations",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EckhkfTJOWpLo8fj6ScmDw4BLv-JhtQjB3Li2trdzvn-wg?e=Gypp5s",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2021-10-26T00:00:00",
+        "lastModifiedDate": "2023-01-09T00:00:00",
+        "nextReviewDate": "2024-10-19T00:00:00",
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff"
+        ],
+        "keywords": [
+            "freedom",
+            " speech",
+            " academic"
+        ],
+        "layout": "New",
+        "version": 2
+    },
+    {
+        "instrumentName": "Governance Framework",
+        "className": "Principles/Framework",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EVfuUlBdky1FhwpYI5T7kCwBYni8bDPzQ-yKwDXDQVO1XQ?e=nxWdfe",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2023-04-03T00:00:00",
+        "lastModifiedDate": "2023-05-09T00:00:00",
+        "nextReviewDate": "2026-03-09T00:00:00",
+        "associatedInstruments": [
+            "Senate Statement of Governance Principles"
+        ],
+        "accessRoles": [
+            "staff"
+        ],
+        "keywords": [
+            "governance"
+        ],
+        "layout": "New",
+        "version": 2
+    },
+    {
+        "instrumentName": "Graduate Research Degrees Regulations",
+        "className": "Regulations",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EdCim-Erb2xBoPw8NIVEzqYBSBL4M6vnY0Qj8prBIndEUQ?e=loMcvs",
+        "Owner": "Maker, Garth",
+        "firstCreatedDate": "2024-02-01T00:00:00",
+        "lastModifiedDate": "2024-03-19T00:00:00",
+        "nextReviewDate": "2025-12-06T00:00:00",
+        "associatedInstruments": [
+            "Statute No. 4 - Degrees Diplomas and Certificates",
+            " College and School Regulations",
+            " Complaints Management Policy",
+            " Student Code of Conduct"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "graduate",
+            " research"
+        ],
+        "layout": "New",
+        "version": 11
+    },
+    {
+        "instrumentName": "Guild Election Regulations",
+        "className": "Regulations",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EXqEbEXkAiVGreRHR7mPrsEB_wIEbeEQZCN6JghC6oGLKg?e=f8WPZW",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2022-10-06T00:00:00",
+        "lastModifiedDate": "2023-01-09T00:00:00",
+        "nextReviewDate": "2025-08-30T00:00:00",
+        "associatedInstruments": [
+            "Statute No. 17 - Guild of Students"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "guild",
+            " election"
+        ],
+        "layout": "New",
+        "version": 6
+    },
+    {
+        "instrumentName": "Guild Regulations",
+        "className": "Regulations",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EdUFJo55VdhCuX1yZC1nZRcBOJkPmgZAD5UJOR4BfmtizA?e=prLgnc",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2021-07-27T00:00:00",
+        "lastModifiedDate": "2023-09-28T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "guild"
+        ],
+        "layout": "Old",
+        "version": 6
+    },
+    {
+        "instrumentName": "Higher Doctorate Regulations",
+        "className": "Regulations",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EYX38kumvXNIvhoj8u3uxvQBK-wukBqyeHmZp0yUzdPX5A?e=M3vZZS",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2010-10-14T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "higher",
+            " doctorate"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Intellectual Property Regulations",
+        "className": "Regulations",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ERqu2bvMCIRMqh1_mFOGnJQBbzTNbb0RZBh3xHFNcOY3Yw?e=cnYcQn",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2017-12-07T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [
+            "Statute No. 8 - Interpretation",
+            " Statute No. 18 - Intellectual Property"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "intellectual",
+            " property"
+        ],
+        "layout": "Old",
+        "version": 3
+    },
+    {
+        "instrumentName": "List of Repealed Murdoch University Statutes",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EXzte2go_zZOjr2i6Q669LMB6KboiTcXSphQOri1qXklIg?e=xs5S6P",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2021-03-12T00:00:00",
+        "lastModifiedDate": "2021-03-12T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "repealed"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Naming of Chairs, Buildings and Facilities Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EQVUvF0jF6JIi-xMQN4V7pIBTXkXnsxlqR_vcqqwshR5Gw?e=cmi6qG",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2021-09-09T00:00:00",
+        "lastModifiedDate": "2021-09-09T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff"
+        ],
+        "keywords": [
+            "name",
+            " chair",
+            " building",
+            " facility"
+        ],
+        "layout": "Old",
+        "version": 2
+    },
+    {
+        "instrumentName": "Policy Governance and Management Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EeDeZ9a0REJAjTToHZz0HFgBBsy492PjgEAEXYjX8k6tRQ?e=pC8uhF",
+        "Owner": "McGlade, Trudi",
+        "firstCreatedDate": "2024-01-18T00:00:00",
+        "lastModifiedDate": "2024-01-23T00:00:00",
+        "nextReviewDate": "2026-05-16T00:00:00",
+        "associatedInstruments": [
+            "Delegations and Authorisations Policy"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "governance",
+            " management"
+        ],
+        "layout": "New",
+        "version": 2
+    },
+    {
+        "instrumentName": "Posthumous Awards Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ERUgV_xLMc1NgFhezUMteUoBCuVFr51hNk8PMo-R709nUw?e=KjK8kX",
+        "Owner": "Maker, Garth",
+        "firstCreatedDate": "2024-02-15T00:00:00",
+        "lastModifiedDate": "2024-02-15T00:00:00",
+        "nextReviewDate": "2024-06-16T00:00:00",
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "posthumous",
+            "award"
+        ],
+        "layout": "New",
+        "version": 4
+    },
+    {
+        "instrumentName": "Privacy Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EefGtGgn0Y1DjhayeWNqyWIBypLefoSRnB5OvQftB9Xq4Q?e=TIennd",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2023-01-11T00:00:00",
+        "lastModifiedDate": "2023-08-04T00:00:00",
+        "nextReviewDate": "2026-01-09T00:00:00",
+        "associatedInstruments": [
+            "Complaints Management Policy",
+            " Student Complaints Management Procedure"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "privacy"
+        ],
+        "layout": "New",
+        "version": 6
+    },
+    {
+        "instrumentName": "Public Interest Disclosure Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/Edhq69Y49kFDkrsyITLesOQBANRmLZPlvl8ttJx9tEvwXg?e=8AKd4u",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2019-10-10T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": "2022-09-25T00:00:00",
+        "associatedInstruments": [
+            "Public Interest Disclosure Procedure",
+            " Code of Ethics",
+            " Staff Code of Conduct",
+            " Student Code of Conduct"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "public",
+            " interest",
+            " disclosure"
+        ],
+        "layout": "Old",
+        "version": 4
+    },
+    {
+        "instrumentName": "Public Interest Disclosure Procedure",
+        "className": "Procedure",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EcHj8QMQnLNGmBd2bMCOod8BQYfs2rPn3vL0P_tHfi27nA?e=myuPBD",
+        "Owner": "Sullivan, Alannah",
+        "firstCreatedDate": "2018-07-13T00:00:00",
+        "lastModifiedDate": "2021-11-12T00:00:00",
+        "nextReviewDate": "2024-11-01T00:00:00",
+        "associatedInstruments": [
+            "Public Interest Disclosure Policy"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "public",
+            " interest",
+            " disclosure"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Quality Review Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EbicgRUIlEhIgY6tUBDYs1cBpid-2CRkaHzyI-7-O27xpw?e=BCwN3v",
+        "Owner": "McGlade, Trudi",
+        "firstCreatedDate": "2023-05-22T00:00:00",
+        "lastModifiedDate": "2024-01-18T00:00:00",
+        "nextReviewDate": "2026-05-16T00:00:00",
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff"
+        ],
+        "keywords": [
+            "quality",
+            " review"
+        ],
+        "layout": "New",
+        "version": 1
+    },
+    {
+        "instrumentName": "Recordkeeping Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EVufMsOtuhxFsK_Q190zipEBdclHKodJjycd1xq0HKZlBw?e=Thgtmu",
+        "Owner": "McGlade, Trudi",
+        "firstCreatedDate": "2021-12-21T00:00:00",
+        "lastModifiedDate": "2023-08-04T00:00:00",
+        "nextReviewDate": "2024-12-14T00:00:00",
+        "associatedInstruments": [
+            "Archives and Archival Records Policy"
+        ],
+        "accessRoles": [
+            "staff"
+        ],
+        "keywords": [
+            "record",
+            " keep"
+        ],
+        "layout": "New",
+        "version": 4
+    },
+    {
+        "instrumentName": "Regalia Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EZxfMC_EhElMuLqtpCrmPRoBQ7_raromwdeF0gcfJ-8yIQ?e=x4EU7w",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2021-09-09T00:00:00",
+        "lastModifiedDate": "2022-11-03T00:00:00",
+        "nextReviewDate": "2024-07-20T00:00:00",
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "regalia"
+        ],
+        "layout": "Old",
+        "version": 4
+    },
+    {
+        "instrumentName": "Responsible Investment Charter",
+        "className": "Code/Charter",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EdzYpNV7DIVNnqc-Ma_ATckBT9y33X6XieP7aL5_jlNZ1A?e=0hGEWT",
+        "Owner": "Chan, Samantha",
+        "firstCreatedDate": "2017-11-13T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": "2020-09-06T00:00:00",
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "responsible",
+            " investment"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Rules for the Conduct of Examinations",
+        "className": "Rule",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EUtnjHiJRO9FiY1_GEwvi6kBlp3kRaW3CEteWO3NmxpeFg?e=88cjOm",
+        "Owner": "Maker, Garth",
+        "firstCreatedDate": "2024-03-06T00:00:00",
+        "lastModifiedDate": "2024-03-06T00:00:00",
+        "nextReviewDate": "2024-06-16T00:00:00",
+        "associatedInstruments": [
+            "Statute No. 20 - Examinations",
+            " Conduct of Examinations Regulations",
+            " Student Integrity Regulations"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "conduct",
+            " examination"
+        ],
+        "layout": "New",
+        "version": 7
+    },
+    {
+        "instrumentName": "Selection of Chancellor Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EUDXlCktdgBEkhOli43Oah8BnAFKjIT7xDt_c3tUPvdECA?e=EA5Xyx",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2018-09-13T00:00:00",
+        "lastModifiedDate": "2022-06-02T00:00:00",
+        "nextReviewDate": "2025-03-10T00:00:00",
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff"
+        ],
+        "keywords": [
+            "select",
+            " selection",
+            " chancellor"
+        ],
+        "layout": "New",
+        "version": 2
+    },
+    {
+        "instrumentName": "Senate Medal Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/Eb0h81okDmJCi62OPWLwbfQBSGdeNFNijYsbMXOGYA_ESA?e=QOMVau",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2022-11-04T00:00:00",
+        "lastModifiedDate": "2022-11-04T00:00:00",
+        "nextReviewDate": "2025-10-25T00:00:00",
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "senate",
+            " medal"
+        ],
+        "layout": "New",
+        "version": 4
+    },
+    {
+        "instrumentName": "Senate Statement of Governance Principles",
+        "className": "Principles/Framework",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ESBWvsY_RL5HkxebyAyzgzwB3wHg1e0QFLod379pNnVZsQ?e=AfvE7j",
+        "Owner": "McGlade, Trudi",
+        "firstCreatedDate": "2024-05-08T00:00:00",
+        "lastModifiedDate": "2024-05-10T00:00:00",
+        "nextReviewDate": "2024-12-06T00:00:00",
+        "associatedInstruments": [
+            "Award of Honorary Degree Policy",
+            " Guild Regulations",
+            " Regalia Policy",
+            " Responsible Investment Charter",
+            " Senate Medal Policy",
+            " Statute No. 5 - Academic Council"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "senate",
+            " statement",
+            " governance"
+        ],
+        "layout": "New",
+        "version": 20
+    },
+    {
+        "instrumentName": "Sexual Harm Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EdNUtiUhoWlCnU7mEA5YnyoBwWGpuGYRzybD5NKq30NZpQ?e=FSACTw",
+        "Owner": "Cominelli, Gemma",
+        "firstCreatedDate": "2021-08-09T00:00:00",
+        "lastModifiedDate": "2024-05-06T00:00:00",
+        "nextReviewDate": "2022-08-05T00:00:00",
+        "associatedInstruments": [
+            "Complaints Management Policy",
+            " Privacy Policy",
+            " Sexual Harm Procedure",
+            " Sexual Harm Procedure - Dubai",
+            " Student Code of Conduct",
+            " Student Integrity Regulations"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "sex",
+            " sexual",
+            " harm"
+        ],
+        "layout": "Old",
+        "version": 3
+    },
+    {
+        "instrumentName": "Sexual Harm Procedure",
+        "className": "Procedure",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EYI569NOOx1Pt5hgcO_AjgwBzbCn_u0dWq15NZeSbcOl-A?e=m17jjM",
+        "Owner": "Walters, Simon",
+        "firstCreatedDate": "2024-05-06T00:00:00",
+        "lastModifiedDate": "2024-05-06T00:00:00",
+        "nextReviewDate": "2021-10-23T00:00:00",
+        "associatedInstruments": [
+            "Sexual Harm Policy",
+            " Sexual Harm Procedure - Dubai",
+            " Privacy Policy"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "sex",
+            " sexual",
+            " harm"
+        ],
+        "layout": "Old",
+        "version": 2
+    },
+    {
+        "instrumentName": "Sexual Harm Procedure - Dubai",
+        "className": "Procedure",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EX-UiEGP7Y1Ildx3cG9qu7gBwWrodxUVzRZCWcalpxRHOw?e=EoKvxg",
+        "Owner": "Walters, Simon",
+        "firstCreatedDate": "2024-05-06T00:00:00",
+        "lastModifiedDate": "2024-05-06T00:00:00",
+        "nextReviewDate": "2021-10-26T00:00:00",
+        "associatedInstruments": [
+            "Sexual Harm Policy",
+            " Sexual Harm Procedure",
+            " Privacy Policy"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "sex",
+            " sexual",
+            " harm"
+        ],
+        "layout": "Old",
+        "version": 3
+    },
+    {
+        "instrumentName": "Staff Code of Conduct",
+        "className": "Code/Charter",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ET-viMI1MRZIrWgISqIfm3QBihf33JcKhBNMNARTipUWjw?e=567aWF",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2021-10-26T00:00:00",
+        "lastModifiedDate": "2021-10-27T00:00:00",
+        "nextReviewDate": "2024-10-19T00:00:00",
+        "associatedInstruments": [
+            "Code of Ethics",
+            " Foreign Interference Policy",
+            " Intellectual Property Regulations",
+            " Freedom of Speech and Academic Freedom Regulations"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "staff",
+            " code",
+            " conduct"
+        ],
+        "layout": "New",
+        "version": 4
+    },
+    {
+        "instrumentName": "Statute No. 1 - Official Seal",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EexHkl-ZfkZHhuZe89jf-aYBuAbdg2Cq53Q89I-wl2gBCw?e=cAbC9k",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2021-01-13T00:00:00",
+        "lastModifiedDate": "2021-01-13T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "official",
+            " seal"
+        ],
+        "layout": "Old",
+        "version": 3
+    },
+    {
+        "instrumentName": "Statute No. 11 - Admissions",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/Eaig8xoDHQxLmpy5FluUVccBXsrclMcClv76QUxBysSn-Q?e=SsXV41",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2013-04-30T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "admission"
+        ],
+        "layout": "Old",
+        "version": 2
+    },
+    {
+        "instrumentName": "Statute No. 15 - Elections",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EZGFZjzpQDBCmOUQEXKpqxMBr3FdMX5O_Jt17rSegrgR4w?e=pntQ1j",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2010-10-13T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "election"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Statute No. 17 - Guild of Students",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EQqLwSUvpn9HhQM7JX5z-YwBQpCkkIX4S0LGe8XSp1Q2_w?e=mgk5ll",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2012-04-05T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [
+            "Guild Regulations",
+            " Guild Election Regulations"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "guild",
+            " student"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Statute No. 18 - Intellectual Property",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ERAXTvl_le5NhCjoO8cTeGQBiLEQcKoGLD0E3AClr7AZfQ?e=HSibZV",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2012-03-29T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [
+            "Intellectual Property Regulations"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "intellectual",
+            " property"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Statute No. 19 - Alumni",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ETtj1ddJIe9Cs4SOlAtw_YoBbBN5S-zzqy22te447gb9-g?e=yCbqLq",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2012-04-05T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [
+            "Alumni Regulations"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "alumni"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Statute No. 20 - Examinations",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EThua-v-iGxDl-yvgy0FDpABYBekOidnRTkr5AWZTinx5w?e=RKKnUG",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2012-04-05T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [
+            "Conduct of Examinations Regulations",
+            " Rules for the Conduct of Examinations"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "examination"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Statute No. 21 - Affiliated Institutions",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ESNjyAxKi2JDttgYQ-3Z2MMB3u-HCfRKVo-9WYBXD0J1Rw?e=c0GFax",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2012-04-05T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "affiliate",
+            " institution"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Statute No. 22 - Fees",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EeRUB5Ylh0VCsBOgO-QJDIcBZ26vfFxfITO1F80GBFcQFg?e=vaXk89",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2012-04-10T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [
+            "Fee Regulations",
+            " Fee Rules"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "fee"
+        ],
+        "layout": "Old",
+        "version": 2
+    },
+    {
+        "instrumentName": "Statute No. 25 - Vice Chancellor",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EQ2ByUFqTupIqDXWIBEtxVMBSpFXF5z2XPhV3VJ0-M9utg?e=MdDhJ6",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2021-01-13T00:00:00",
+        "lastModifiedDate": "2021-01-13T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "vice",
+            " chancellor"
+        ],
+        "layout": "Old",
+        "version": 2
+    },
+    {
+        "instrumentName": "Statute No. 26 - Student Misconduct",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EcCv3B_IgP1LgeEVD1UCyagBoYg73sn6tH4IrbnWpl_O7Q?e=DXL80Y",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2012-03-28T00:00:00",
+        "lastModifiedDate": "2023-01-09T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [
+            "Student Integrity Regulations"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "student",
+            " misconduct"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Statute No. 4 - Degrees Diplomas and Certificates",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ES1lkc3KuqtOu0D5rT34mC8BiKSgsGwE0BHUQ4a_MZUuXw?e=il58dF",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2012-04-05T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "degree",
+            " diploma",
+            " certificate"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Statute No. 5 - Academic Council",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EUYhLA7yWelLgZcicb6hXkgBpcpWGclk9ujyUtUjnj3iZA?e=g4f0Z1",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2015-03-26T00:00:00",
+        "lastModifiedDate": "2021-11-29T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [
+            "Academic Council Regulations"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "academic",
+            " council"
+        ],
+        "layout": "Old",
+        "version": 2
+    },
+    {
+        "instrumentName": "Statute No. 8 - Interpretation",
+        "className": "Statutes",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EbfSzdY10rNFhlxRVCTXyz0BVeMi2rJRdU7u-EiO12MXqw?e=DVaRuq",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2012-04-05T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "interpret"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Student Academic Integrity Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ESwbnxEvGJNPhFKcSIsufG0BhlThHTwqpp7oiKPzLbUb9Q?e=D5i2yd",
+        "Owner": "Maker, Garth",
+        "firstCreatedDate": "2024-03-08T00:00:00",
+        "lastModifiedDate": "2024-03-08T00:00:00",
+        "nextReviewDate": "2026-03-27T00:00:00",
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "student",
+            " academic",
+            " integrity"
+        ],
+        "layout": "New",
+        "version": 3
+    },
+    {
+        "instrumentName": "Student Appeals Committee Regulations",
+        "className": "Regulations",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EfEWQMjsNUFJuTDN2vabuwoBj0hU4ReR5ws5tHvVD44LoQ?e=orTaKX",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2012-04-05T00:00:00",
+        "lastModifiedDate": "2020-10-23T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "student",
+            " appeal",
+            " committee"
+        ],
+        "layout": "Old",
+        "version": 1
+    },
+    {
+        "instrumentName": "Student Behavioural Integrity Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EabnVTl0S2hNrQK4k1OW7BUBKQ8RlBsj_Z6M9hjS4ZnTSA?e=NRTudv",
+        "Owner": "Blakiston, Michelle",
+        "firstCreatedDate": "2022-12-08T00:00:00",
+        "lastModifiedDate": "2022-11-21T00:00:00",
+        "nextReviewDate": "2025-11-17T00:00:00",
+        "associatedInstruments": [
+            "Sexual Harm Policy",
+            " Sexual Harm Procedure",
+            " Sexual Harm Procedure - Dubai",
+            " Student Integrity Regulations",
+            " Freedom of Speech and Academic Freedom Regulations"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "student",
+            " behave",
+            " behaviourial",
+            " integrity"
+        ],
+        "layout": "New",
+        "version": 1
+    },
+    {
+        "instrumentName": "Student Code of Conduct",
+        "className": "Code/Charter",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ESGYsJKH_4VBqgSB-WQFNn8BnpFraxp5iyUhE3gvo8SN_w?e=pjMtDn",
+        "Owner": "Klinger, Don",
+        "firstCreatedDate": "2023-09-28T00:00:00",
+        "lastModifiedDate": "2023-09-28T00:00:00",
+        "nextReviewDate": "2024-10-19T00:00:00",
+        "associatedInstruments": [
+            "Freedom of Speech and Academic Freedom Regulations",
+            " Fee Rules",
+            " Intellectual Property Regulations",
+            " Rules for the Conduct of Examinations",
+            " Sexual Harm Policy",
+            " Statute No. 26 - Student Misconduct",
+            " Student Complaints Management Procedure"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "student",
+            " code",
+            " conduct"
+        ],
+        "layout": "New",
+        "version": 6
+    },
+    {
+        "instrumentName": "Student Complaints Management Procedure",
+        "className": "Procedure",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EdATqfMXodFDuH1LVegESnYBm1YaL5Y_TPN-O4sN1a1hGA?e=TbWw1b",
+        "Owner": "Darnell, Lynette",
+        "firstCreatedDate": "2020-11-26T00:00:00",
+        "lastModifiedDate": "2023-01-09T00:00:00",
+        "nextReviewDate": "2023-11-16T00:00:00",
+        "associatedInstruments": [
+            "Complaints Management Policy",
+            " Sexual Harm Procedure",
+            " Sexual Harm Procedure - Dubai",
+            " Staff Code of Conduct",
+            " Student Code of Conduct"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "student",
+            " complaint",
+            " manage",
+            " management"
+        ],
+        "layout": "Old",
+        "version": 6
+    },
+    {
+        "instrumentName": "Student General Misconduct Procedure",
+        "className": "Procedure",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EcAHqqXfgV9FnGbaK8QarDsBS8ktL-KJlm3ErL7yMMgjiA?e=aRgiV9",
+        "Owner": "Blakiston, Michelle",
+        "firstCreatedDate": "2022-12-08T00:00:00",
+        "lastModifiedDate": "2022-12-15T00:00:00",
+        "nextReviewDate": "2025-11-17T00:00:00",
+        "associatedInstruments": [
+            "Exclusion from University Land Guideline",
+            " Intellectual Property Regulations",
+            " Sexual Harm Policy",
+            " Sexual Harm Procedure",
+            " Sexual Harm Procedure - Dubai ",
+            " Student Code of Conduct"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "student",
+            " misconduct"
+        ],
+        "layout": "New",
+        "version": 1
+    },
+    {
+        "instrumentName": "Student Integrity Regulations",
+        "className": "Regulations",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/EQ0hJpf16P1Hh5-J6g7mtFoBp-xBL3LKkUFGPT1pBjJXAA?e=V0znVA",
+        "Owner": "Blakiston, Michelle",
+        "firstCreatedDate": "2022-11-11T00:00:00",
+        "lastModifiedDate": "2022-11-11T00:00:00",
+        "nextReviewDate": null,
+        "associatedInstruments": [
+            "Statute No. 26 - Student Misconduct",
+            " Freedom of Speech and Academic Freedom Regulations"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "student",
+            " integrity"
+        ],
+        "layout": "New",
+        "version": 1
+    },
+    {
+        "instrumentName": "University Medals Policy",
+        "className": "Policy",
+        "fileURL": "https://1drv.ms/b/c/a134423bd88a0451/ESNptNRNVTtClhr9h1JYa0IBvTBNV8lFETEm8k1CFAoKJQ?e=8wIfzo",
+        "Owner": "Maker, Garth",
+        "firstCreatedDate": "2024-01-16T00:00:00",
+        "lastModifiedDate": "2024-01-16T00:00:00",
+        "nextReviewDate": "2026-11-22T00:00:00",
+        "associatedInstruments": [
+            "Statute No. 5 - Academic Council",
+            " Academic Council Statement of Governance Principles"
+        ],
+        "accessRoles": [
+            "staff",
+            "student"
+        ],
+        "keywords": [
+            "university",
+            " medal"
+        ],
+        "layout": "New",
+        "version": 9
+    }
+]
